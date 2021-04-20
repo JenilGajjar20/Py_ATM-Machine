@@ -2,45 +2,46 @@
 
 ## Table of Contents
 <ol>
-<li>ATM Function Requirements</li>
-<li>Import Python Random Module
-</li>
-<ul>
-<li>What does the random module/package do in Python?</li>
-</ul>
-<li>Create Class and Define Functions
-<ul>
-<li>What is a class?</li>
-<li>How to define a function?</li>
-</ul>
-</li>
-<li>Define the main() Function</li>
-<li>ATM Process Creation Using while True</li>
+	<li>ATM Function Requirements</li>
+	<li>
+		Import Python Random Module
+		<ul>
+			<li>What does the random module/package do in Python?</li>
+		</ul>
+	</li>
+	<li>Create Class and Define Functions
+		<ul>
+			<li>What is a class?</li>
+			<li>How to define a function?</li>
+		</ul>
+	</li>
+	<li>Define the main() Function</li>
+	<li>ATM Process Creation Using while True</li>
 </ol>
 
 ### ATM function requirements
 The first step is to brainstorm what basic transactions are completed at an ATM?<br>
 Some of the function that one can complete at an ATM are given below:<br>
 <ul>
-<li>Input user pin for authentication</li>
-<li>Check account balance</li>
-<li>Deposit funds</li>
-<li>Withdraw funds</li>
-<li>Create random generated transaction id</li>
-<li>Account interest rate and Monthly accused interest rate</li>
+	<li>Input user pin for authentication</li>
+	<li>Check account balance</li>
+	<li>Deposit funds</li>
+	<li>Withdraw funds</li>
+	<li>Create random generated transaction id</li>
+	<li>Account interest rate and Monthly accused interest rate</li>
 </ul>
 
 ### Import python random module
-Ques. <b>What does the random module/package do in Python?</b><br>
+<b>Ques. What does the random module/package do in Python?</b><br>
 Ans. The random module allows a program to create random numbers by using the <b>random.randint()</b> function.<br>
-<b>import random</b>
+-----------------------<b>import random</b>-----------------------
 
 ### Create Class and Define function
-Ques. <b>What is a Class?</b><br>
+<b>Ques. What is a Class?</b><br>
 Ans. A class is used for creating objects. By creating objects, the objects have variables and a behavior that's associated with them. 
 A class is created with the keyword <b>class</b>. Once the class is created, the object within the class will then be called the instance of the class.<br>
 
-Ques. <b>How to define a function?</b><br>
+<b>Ques. How to define a function?</b><br>
 Ans. Now we take the requirements that we created from the above and create functions. We can define the functions to provide the given functionality of the program. 
 The function blocks are started with <b>def</b> keywords and followed with the function name and parenthesis, such as <b>def getId(self)</b>.<br>
 
