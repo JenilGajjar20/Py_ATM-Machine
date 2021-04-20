@@ -4,10 +4,10 @@
 <ol>
 <li>ATM Function Requirements</li>
 <li>Import Python Random Module
+</li>
 <ul>
 <li>What does the random module/package do in Python?</li>
 </ul>
-</li>
 <li>Create Class and Define Functions
 <ul>
 <li>What is a class?</li>
@@ -31,16 +31,16 @@ Some of the function that one can complete at an ATM are given below:<br>
 </ul>
 
 ### Import python random module
-Ques. What does the random module/package do in Python?<br>
+Ques. <b>What does the random module/package do in Python?</b><br>
 Ans. The random module allows a program to create random numbers by using the <b>random.randint()</b> function.<br>
 <b>import random</b>
 
 ### Create Class and Define function
-Ques. What is a Class?<br>
+Ques. <b>What is a Class?</b><br>
 Ans. A class is used for creating objects. By creating objects, the objects have variables and a behavior that's associated with them. 
 A class is created with the keyword <b>class</b>. Once the class is created, the object within the class will then be called the instance of the class.<br>
 
-Ques. How to define a function?<br>
+Ques. <b>How to define a function?</b><br>
 Ans. Now we take the requirements that we created from the above and create functions. We can define the functions to provide the given functionality of the program. 
 The function blocks are started with <b>def</b> keywords and followed with the function name and parenthesis, such as <b>def getId(self)</b>.<br>
 
@@ -57,21 +57,3 @@ By creating the main() method, we will use a range to have all users to enter a 
 We will use the while True loop because it will loop forever. 
 The while statement will take an expression and execute the body of the loop while the expression is equal to ‘boolean’ of True.
 As long as the loop stays True, the loop will indefinitely loop.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
