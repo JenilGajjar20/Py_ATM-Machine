@@ -34,7 +34,7 @@ Some of the function that one can complete at an ATM are given below:<br>
 ### Import python random module
 <b>Ques. What does the random module/package do in Python?</b><br>
 Ans. The random module allows a program to create random numbers by using the <b>random.randint()</b> function.<br>
------------------------<b>import random</b>-----------------------
+-----------------------<code><b>import random</b></code>-----------------------
 
 ### Create Class and Define function
 <b>Ques. What is a Class?</b><br>
